@@ -1,4 +1,4 @@
-# youtobe_download
+# youtube_download
 Download any number of youtube videos for free in your WINDOWS (PowerShell)
 
 INSTALL::
