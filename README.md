@@ -1,5 +1,5 @@
 # youtube_download
-Download any number of youtube videos for free in your WINDOWS (PowerShell)
+Download any number of youtube | Instagram | tiktok videos for free in your WINDOWS (PowerShell)
 
 INSTALL::
 install using winget command to any desired location as below:
@@ -9,7 +9,18 @@ install using winget command to any desired location as below:
       
 
 once installed Successfully.
-      run below command to download your desired video from youtube to the desired directory.
+      run below command to download YOUTUBE your desired video from youtube to the desired directory.
 
       
-      PS C:\Users> yt-dlp "www.youtube.com/shorts/XXXXXXXXXXXXXX"
+PS C:\Users> yt-dlp "www.youtube.com/shorts/XXXXXXXXXXXXXX"
+
+
+      run below command to download INSTAGRAM your desired video from youtube to the desired directory.
+
+      
+PS C:\Users> yt-dlp "https://www.instagram.com/XXXXXXXXXXX"
+
+
+      run below command to download TIKTOK your desired video from youtube to the desired directory.
+      
+PS C:\Users\aab> yt-dlp "https://www.tiktok.com/XXXXXXXXXX"
